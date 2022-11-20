@@ -5,3 +5,6 @@
 ```
 mvn clean install
 ```
+```
+Test reports can be found in rest-assured-testing/testNG-reports folder.
+```

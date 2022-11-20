@@ -40,6 +40,7 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>3.0.0-M5</version>
                 <configuration>
+					<reportsDirectory>./testNG-reports</reportsDirectory>
                     <suiteXmlFiles>
                         <suiteXmlFile>src\test\resources\testNG.xml</suiteXmlFile>
                     </suiteXmlFiles>

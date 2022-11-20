@@ -1,7 +1,7 @@
 <?xml version = "1.0"encoding = "UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name = "Users_Api_Test_Suite">
-    <test name = "Test Users Api">
+    <test name = "users-api-test">
         <classes>
             <class name = "com.taxdoo.api.testing.users.GetUsersApiTest"/>
             <class name = "com.taxdoo.api.testing.users.CreateUserApiTest"/>
